@@ -1,0 +1,15 @@
+{
+ "tamanho": 416,
+ "classes": [
+  "caixa",
+  "carteira",
+  "escada",
+  "lixeira",
+  "manequim",
+  "mesa",
+  "banco",
+  "planta"
+ ],
+ "mAP50": 0.93,
+ "mAP50_95": 0.743
+}

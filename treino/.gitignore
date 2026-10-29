@@ -1,0 +1,4 @@
+dados/
+execucoes/
+*.pt
+__pycache__/
